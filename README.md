@@ -1,6 +1,6 @@
 🧠 LLM Project: Building a News Research Tool
 
-This project builds a **News Research Tool** using **LangChain**, **OpenAI API**, and **Streamlit**.  
+This project builds a **News Research Tool** using **LangChain**, **OpenAI API/Groq**, and **Streamlit**.  
 It allows users to enter a query and receive summarized, relevant news articles — designed especially for **equity research analysts** and **data enthusiasts**.
 
 ---
@@ -180,4 +180,5 @@ streamlit run app.py
 
 **Name:** [Irshad Shaikh](https://github.com/irshadshaikh)  
 **Project by:** *Nexthikes LLM Course Team*  
+
 
